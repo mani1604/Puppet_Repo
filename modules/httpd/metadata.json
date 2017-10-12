@@ -1,0 +1,24 @@
+{
+  "name": "my-httpd",
+  "version": "0.1.0",
+  "source": "UNKNOWN",
+  "author": "my",
+  "license": "Apache License, Version 2.0",
+  "summary": "UNKNOWN",
+  "description": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "51bfb392043509f762047282b6748ab2",
+    "README": "a7199470291626b80acc14adbc2a55e9",
+    "manifests/init.pp": "7f87e7a31d9b10090d0781667c3a3e01",
+    "manifests/install.pp": "ea4e2da5a5c66664b2e431e139c6f2b2",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "tests/init.pp": "9251ab4585560dfd85d80c825bcbccd1"
+  }
+}

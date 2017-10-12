@@ -1,0 +1,13 @@
+server <%= @ntpserver %>
+
+driftfile <%= @dfile %>
+
+includefile <%= @ifile%>
+
+keys <%= @kfile %>
+
+<% @restricts.each do |ip| -%>
+restrict <%= ip %>
+<% end -%>
+
+disable monitor

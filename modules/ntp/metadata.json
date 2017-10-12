@@ -1,0 +1,24 @@
+{
+  "name": "my-ntp",
+  "version": "0.1.0",
+  "source": "UNKNOWN",
+  "author": "my",
+  "license": "Apache License, Version 2.0",
+  "summary": "UNKNOWN",
+  "description": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "77a72d7bbca789959cec40e007b7b5fa",
+    "README": "2291f549cbf5b762f6ee7002b1293c47",
+    "manifests/init.pp": "3608c0ea7029944882bc6577c36aa587",
+    "manifests/install.pp": "e683ee4006559e98a4cf304812a37e6a",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "tests/init.pp": "6c8e71361bfa267266a8e9d168072af7"
+  }
+}
