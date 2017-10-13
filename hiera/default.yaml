@@ -1,1 +1,2 @@
-ntp::params::ntpserver: 'overridden.example.com'
+---
+ntpserver: 'overridden.example.com'
