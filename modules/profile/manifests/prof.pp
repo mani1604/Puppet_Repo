@@ -1,5 +1,5 @@
 class profile::prof (
-  $ntpserver = hiera('ntp::params::ntpserver'),
+  $ntpserver = hiera('ntpserver'),
 )
 {
   include ntp
