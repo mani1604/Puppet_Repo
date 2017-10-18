@@ -1,6 +1,2 @@
 ---
-<<<<<<< HEAD
 ntpserver: 'overridden.example.com'
-=======
-ntpserver: 'overridden.example.com'
->>>>>>> c707bd8f2a8335ec9f301939489df8392cffab9f
